@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <h1> ChatBot Barotech </h1>
+    <h1>ChatBot Barotech</h1>
 
     <?php
 
